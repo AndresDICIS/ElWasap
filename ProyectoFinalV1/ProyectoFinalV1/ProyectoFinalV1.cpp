@@ -8,6 +8,6 @@ int APIENTRY wWinMain(HINSTANCE hInstance, HINSTANCE , LPTSTR cmdLine, int cmdSh
 
 void ProyectoFinalV1::Window_Open(Win::Event& e)
 {
-
+	//Prueba 
 }
 
